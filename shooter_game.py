@@ -1,4 +1,5 @@
 #Создай собственный Шутер!
+#TODO: asteroids
 
 from pygame import *
 from random import *
